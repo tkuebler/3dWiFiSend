@@ -10,7 +10,7 @@ _I am not a python person. I absolutely hate python with a burning passion so th
 
 _I've tried to keep it simple to use._ 
 
-###Instructions 
+### Instructions 
 
 There are 2 files. 
 
@@ -35,7 +35,7 @@ youtube video:   https://youtu.be/agJc9IzfyQk
 note: Now works on mac and against QIDI X-MAX as well.
 
 
-###Erratta
+### Erratta
 
 Sources for M Commands:
 
